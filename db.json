@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "username": "user1",
+      "password": "password1",
+      "groupId": "group1"
+    },
+    {
+      "id": "user2",
+      "username": "user2",
+      "password": "password2",
+      "groupId": "group1"
+    },
+    {
+      "id": "user3",
+      "username": "user3",
+      "password": "password3",
+      "groupId": "group2"
+    },
+    {
+      "id": "user4",
+      "username": "user4",
+      "password": "password4",
+      "groupId": "group2"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Hamza",
+      "description": "Hamza",
+      "completed": false,
+      "groupId": "group2",
+      "id": "yQp2xNV5wOmOuVWhN95ou"
+    },
+    {
+      "groupId": "group2",
+      "title": "usman",
+      "description": "no description",
+      "completed": false,
+      "id": "drcE-rjsDDS9-yNoGGKRy"
+    }
+  ]
+}
